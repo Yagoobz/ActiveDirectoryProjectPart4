@@ -30,4 +30,4 @@ With the Active Directory setup and the server functioning as a domain controlle
 After restarting the virtual machine, I attempt to log in using one of the newly created user accounts. Upon selecting "Other user" for sign-in, the login prompt correctly points to my domain, indicating successful integration. Everything seems to be functioning perfectly!
 <br />
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/ActiveDirectoryProjectPart4/assets/145611184/399ad145-d4e3-4fca-b8ef-e78bcb39370b" height="30%" width="70%" alt="Disk Sanitization Steps"/>
