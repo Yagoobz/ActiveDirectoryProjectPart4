@@ -13,3 +13,18 @@
 <br />
 <br />
 <img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+...
+<br />
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+...
+<br />
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+...
+<br />
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
