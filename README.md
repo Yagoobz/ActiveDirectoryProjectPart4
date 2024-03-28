@@ -25,7 +25,7 @@ Next, I proceed to create user accounts within the Active Directory environment.
 With the Active Directory setup and the server functioning as a domain controller, I proceed to integrate the Windows target machine into the newly established domain and authenticate it using one of the organizational units. Initially, I update the DNS server address on the target machine to point to the domain controller, ensuring correctness. Next, I access "Advanced system settings" and modify the domain to "(myname).local." Following this, I input the correct administrator credentials, successfully connecting the target machine to the domain.
 <br />
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/ActiveDirectoryProjectPart4/assets/145611184/0095251e-5807-4276-85e6-6558404d0d1d" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 After restarting the virtual machine, I attempt to log in using one of the newly created user accounts. Upon selecting "Other user" for sign-in, the login prompt correctly points to my domain, indicating successful integration. Everything seems to be functioning perfectly!
 <br />
