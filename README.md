@@ -18,6 +18,9 @@ Next, I proceed to create user accounts within the Active Directory environment.
 <br />
 <br />
 <img src="https://github.com/Yagoobz/ActiveDirectoryProjectPart4/assets/145611184/7bf0133c-0b64-4388-98fd-8a93a75c9222" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://github.com/Yagoobz/ActiveDirectoryProjectPart4/assets/145611184/b5e8ab27-d733-40e9-8570-e0af4cf99e73" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 With the Active Directory setup and the server functioning as a domain controller, I proceed to integrate the Windows target machine into the newly established domain and authenticate it using one of the organizational units. Initially, I update the DNS server address on the target machine to point to the domain controller, ensuring correctness. Next, I access "Advanced system settings" and modify the domain to "(myname).local." Following this, I input the correct administrator credentials, successfully connecting the target machine to the domain.
 <br />
