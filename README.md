@@ -3,9 +3,9 @@
 <h3>Objectives</h3>
 
 - Install & Configure Active Directory onto Server
-- <br />
+<br />
 - Promote Domain Controller
-- <br />
+<br />
 - Configure Target Machine to Join Domain
 <br />
 <br />
